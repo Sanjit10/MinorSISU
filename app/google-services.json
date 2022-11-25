@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662435942096",
+    "project_id": "sisu-8934e",
+    "storage_bucket": "sisu-8934e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662435942096:android:11819238876630aecb58d5",
+        "android_client_info": {
+          "package_name": "com.sanjit.sisu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662435942096-igagfhcjso0u1vqioab4e1gt86ehjhge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_V6FCHBCqS6pAjH-i80vgCDX7L9WXR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662435942096-igagfhcjso0u1vqioab4e1gt86ehjhge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
