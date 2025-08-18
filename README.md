@@ -2,9 +2,10 @@
 
 ## Introduction
 
-Sisu is an Android application built with Java and Firebase. The name "Sisu" is a Finnish concept embodying determination, resilience, and tenacity. This project serves as a foundational template for an application requiring robust user authentication, database services, and cloud storage, allowing users to manage their data effectively.
+Sisu is an Android application built with Java and Firebase. 
+The name "Sisu" is a Nepali term referring to a child or a newborn. This project serves as a foundational template for an application requiring robust user authentication, database services, and cloud storage, allowing users to manage their data effectively.
 
-**Note to Developers:** This README provides a general overview. Please update this section with the specific purpose and goals of your Sisu application once they are more defined.
+**Note to Developers:** This README provides a general overview
 
 ## Features
 
